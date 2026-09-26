@@ -91,7 +91,7 @@
       
 ##👨‍💻 Author
 
-    Mohammed Ayaan Ali
+    Mohammed Ayaan Ali , Asad Hussain , Mohd Hannan
     Engineering student interested in embedded systems, robotics, and electronics.
 
 ## ⭐ Project
